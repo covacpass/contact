@@ -1,0 +1,11 @@
+{
+    "contact":
+    [
+        {
+            "phone": "+66 083 501 4258",
+            "email": "admin@covac.io",
+            "label": "covac.io/products",
+            "launch": "https://covac.io/products"
+        } 
+    ]
+}
